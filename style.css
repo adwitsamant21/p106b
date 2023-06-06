@@ -1,0 +1,35 @@
+body{
+    font-family: 'Gloria Hallelujah', cursive;
+    background:whitesmoke;
+}
+
+.header_div{
+    background: black;
+    color: aliceblue;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    color: azure;
+    background-color: black;
+}
+.header_div p{
+color: azure;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+font-family: 'Gloria Hallelujah', cursive;
+}
+.header_div button{
+ margin-top: 30px;
+    letter-spacing: 3px;
+    font-size: 12px;
+    font-weight: bolder;
+    font-family: 'Gloria Hallelujah', cursive;
+    background-color: azure;
+    color: black;
+    }
